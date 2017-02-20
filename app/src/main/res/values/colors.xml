@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="alpha">#00000000</color>
+
+    <color name="all_page_bg">#efeff4</color>
+
+    <!-- 字体颜色 -->
+    <color name="font_black">#333333</color>
+    <color name="font_blue">#03afe6</color>
+    <color name="font_red_dark">#DB4848</color>
+    <color name="font_red">#FD5353</color>
+    <color name="font_green">#21B100</color>
+    <color name="font_gray">#909090</color>
+    <color name="font_gary_light">#d1d1d1</color>
+    <color name="font_whiter">#ffffff</color>
+    <color name="font_yellow">#FF9600</color>
+    <color name="font_blue_light">#00aaee</color>
+</resources>

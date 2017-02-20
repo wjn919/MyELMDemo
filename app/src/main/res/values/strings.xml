@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyELMDemo</string>
+    <string name="app_null" >""</string>
+    <string name="app_details">一碗小面</string>
+    <string name="sys_warn_plase_wait">已经没有更多了</string>
+</resources>
